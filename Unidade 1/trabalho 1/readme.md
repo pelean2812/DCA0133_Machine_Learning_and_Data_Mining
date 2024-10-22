@@ -1,2 +1,2 @@
 # Link do colab
-https://raw.githubusercontent.com/NStugard/Intro-to-Machine-Learning/main/spam.csv
+https://colab.research.google.com/drive/1wjT-mkv_FQFpX-lcwrolgs4hCT5jGMLI?usp=sharing
